@@ -2,7 +2,7 @@
 
 This project implements a **Retrieval-Augmented Generation (RAG) chatbot** that allows users to upload a **Vietnamese PDF document**, ask natural language questions, and receive contextually accurate answers.
 
-Built with:
+## Built with:
 - **LangChain** for RAG orchestration
 - **HuggingFace Embeddings** for semantic understanding (Vietnamese bi-encoder)
 - **Vicuna 7B** as the local language model (quantized)
