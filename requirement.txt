@@ -1,0 +1,13 @@
+streamlit==1.35.0
+langchain==0.3.25
+langchain-core==0.1.44
+langchain-community==0.3.24
+langchain-experimental==0.0.57
+langchain-huggingface==0.2.0
+transformers==4.35.2
+sentence-transformers==2.6.1
+torch==2.2.2
+bitsandbytes==0.41.3
+accelerate==0.27.2
+chromadb==0.4.24
+pypdf==3.17.4
