@@ -21,3 +21,8 @@ Create a virtual environment and install dependencies:
 conda create -n rag-chatbot python=3.10
 conda activate rag-chatbot
 pip install -r requirements.txt
+```
+## Run the app by running app.py in your terminal
+```bash
+streamlit run app.py
+```
